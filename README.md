@@ -1,0 +1,7 @@
+- git bash (mingw)
+- 配置Windows terminal，默认使用git bash
+- wsl(比较推荐)
+- 正经虚拟机
+- docker（其实也不轻）
+- 真机安装linux
+- 远程服务器
